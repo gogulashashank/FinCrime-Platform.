@@ -1,0 +1,44 @@
+:root {
+    --primary: #0B6E4F;
+    --danger: #D9381E;
+    --warning: #F2A900;
+    --success: #008000;
+    --surface: #FFFFFF;
+    --text-main: #1E2A38;
+    --text-muted: #64748B;
+    --border: #E2E8F0;
+}
+.metric-card {
+    background-color: var(--surface);
+    border-radius: 8px;
+    padding: 1.25rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    border: 1px solid var(--border);
+    margin-bottom: 1rem;
+    border-top: 4px solid var(--primary);
+}
+.metric-value {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-top: 0.5rem;
+}
+.metric-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+}
+.badge {
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    display: inline-block;
+    text-align: center;
+}
+.badge-open { background-color: #E2E8F0; color: #475569; }
+.badge-in-review { background-color: #FEF3C7; color: #92400E; }
+.badge-escalated { background-color: #FEE2E2; color: #991B1B; }
+.badge-closed { background-color: #DCFCE7; color: #166534; }

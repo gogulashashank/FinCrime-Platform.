@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data
+data/synthetic/*
+!data/synthetic/.gitkeep
+
+# Models
+src/models/*.pkl
+src/models/*.json
+
+# Logs
+*.log

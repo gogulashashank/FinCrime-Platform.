@@ -1,0 +1,60 @@
+rules:
+  - id: "R001"
+    name: "Structuring Pattern (Smurfing)"
+    typology: "Cash Structuring"
+    threshold_logic: "Multiple deposits <£10k within 24h"
+    regulatory_reference: "MLR 2017 Reg 27"
+    description: "Detects multiple transactions just below the 10k reporting threshold."
+    conditions:
+      - feature: "txn_count_1d"
+        operator: ">="
+        value: 3
+      - feature: "avg_amount_1d"
+        operator: ">="
+        value: 8500
+      - feature: "avg_amount_1d"
+        operator: "<"
+        value: 10000
+    score: 85
+
+  - id: "R002"
+    name: "Rapid Movement of Funds (Layering)"
+    typology: "Layering"
+    threshold_logic: "Velocity ratio >50x baseline"
+    regulatory_reference: "NCA Guidance 2023"
+    description: "High velocity ratio where funds are quickly transferred out."
+    conditions:
+      - feature: "total_amount_1d"
+        operator: ">="
+        value: 10000
+      - feature: "velocity_in_out_ratio"
+        operator: ">="
+        value: 0.90
+    score: 90
+
+  - id: "R003"
+    name: "High Value Round Amounts"
+    typology: "Unusual Transaction"
+    threshold_logic: "Amount % 10,000 == 0 & >£25k"
+    regulatory_reference: "JMLSG Ch. 5"
+    description: "Transactions of high value that are perfectly round."
+    conditions:
+      - feature: "amount"
+        operator: ">="
+        value: 1000
+      - feature: "is_round_amount"
+        operator: "=="
+        value: 1
+    score: 75
+
+  - id: "R004"
+    name: "High Risk Entity Transaction"
+    typology: "Geographic Risk"
+    threshold_logic: "Counterparty in FATF greylist/blacklist"
+    regulatory_reference: "MLR 2017 Sch 3"
+    description: "Any transaction involving a high-risk rated entity."
+    conditions:
+      - feature: "risk_rating"
+        operator: "=="
+        value: "High"
+    score: 60

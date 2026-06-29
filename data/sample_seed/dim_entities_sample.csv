@@ -1,0 +1,101 @@
+entity_id,entity_type,name,jurisdiction,is_pep,onboarding_date,last_review_date,expected_monthly_volume,risk_rating
+bc8960a9-23b8-41e9-b924-56de3eb13b90,Individual,Abdul Hopkins,UK,False,2021-08-12,2021-10-07,25244.29,Low
+a65ed389-b74d-4fb1-b2e7-06298fadc1a6,Individual,Kevin Pacheco,Malta,False,2022-08-01,2025-07-19,42770.26,Low
+f50bea63-371e-4d7b-a7cd-813047229389,Company,Davis Inc,Cyprus,False,2024-12-23,2026-04-05,3627.06,Low
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,Individual,Edward Fuller,Malta,False,2025-07-10,2026-01-30,45471.7,Medium
+146d3f31-fc37-4a4c-8a15-544dc5e7ce8a,Individual,Mr Karl White,UK,False,2021-09-19,2022-06-29,16806.27,Medium
+a5e5a5ab-aefc-4ad8-afc8-9849b3aa7efe,Individual,Elliott Thompson,Germany,False,2022-07-15,2023-03-08,76585.92,Low
+c4b032cc-d7c5-44a5-9304-317faf42e12f,Company,Fuller LLC,Cayman Islands,False,2022-11-02,2023-10-25,60768.88,High
+654821d0-7fcd-4eb1-a7ca-d415366eb16f,Individual,Charles Mcgee,Cayman Islands,False,2026-01-20,2026-05-19,97338.46,Medium
+ff5e9ff0-ff50-4de4-b825-67b85cabcc97,Company,"Hughes, Davey and Taylor",Cyprus,False,2025-12-23,2026-04-19,88659.72,Medium
+77d21e02-ff01-4f99-988c-24c961b1cd22,Individual,Shannon Smith,US,True,2024-06-21,2025-11-06,23561.93,Medium
+287d06ca-6f4c-469a-8b22-d3081c8eaee9,Individual,Nathan Cortez,France,False,2025-05-01,2025-12-02,38632.5,Medium
+9be578c7-81f6-41d4-a392-31a7d777a477,Individual,Joanna Carter,UAE,False,2025-11-03,2026-03-25,36171.8,High
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0,Individual,David Bradley,US,False,2021-08-02,2022-01-02,17942.73,High
+f264accc-79ac-4b1e-a8e5-6e0c20de435d,Individual,Jasmine Carr-Davison,Cayman Islands,False,2025-07-27,2026-06-05,98962.81,High
+5f987c71-a65e-488e-abf3-ad39fec21bbe,Individual,Jocelyn Wright,France,False,2025-01-19,2025-07-15,84442.34,Low
+0f1259e0-a18f-46b6-b535-106e122c9a56,Individual,Christine Taylor,UK,False,2024-06-06,2025-06-28,40715.31,Low
+ef7ddc76-b92d-422b-a1df-306f8a0b3c33,Individual,John Russell,Cyprus,False,2024-10-31,2024-12-28,32153.11,High
+0dde29a6-baa4-471a-9d24-67ac778eedb3,Individual,Nicole Briggs,Cayman Islands,False,2023-04-05,2024-01-23,14823.4,High
+766ecb15-474e-4c19-aef9-12766c006f61,Individual,Mr Ross Mann,Canada,False,2024-03-03,2024-04-14,43414.95,High
+7b3a4e3e-7c52-4a17-a80a-c07a2a935d62,Individual,Dr Robert O'Brien,France,False,2026-05-02,2026-06-28,14694.84,Medium
+f512c4c3-b253-4218-ac4a-37ea490617f2,Company,Lee and Sons,UAE,False,2026-02-13,2026-05-02,16131.29,High
+80bacd64-7a0e-4fea-958c-a9ba0cd620c2,Company,Hunt Inc,Cyprus,False,2025-03-24,2025-04-24,7289.24,Medium
+e3e9de99-f10c-418b-9eb0-e38a675dd5af,Individual,Joel Thomas,Cayman Islands,False,2024-11-11,2025-07-18,97136.76,Low
+3d1a85dd-506e-4a9a-b758-588dab73295b,Individual,Michael Evans,US,False,2026-02-28,2026-06-20,54160.06,Medium
+8181a8cc-3691-47eb-89a2-688b12c136e0,Individual,Gregory Jones,UAE,False,2021-07-15,2023-05-14,44041.76,Medium
+ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec,Company,"Warren, Burns and Adams",Canada,False,2023-09-06,2024-06-03,97216.92,Low
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Individual,Mark Baker,US,False,2025-03-14,2025-07-10,30546.03,High
+00e85ece-0b49-452d-86d4-83f3d450281c,Individual,Mandy Green,France,False,2021-12-13,2024-06-15,76488.57,High
+b0e6a969-e213-42b0-b1ee-dba313432e61,Individual,Jack Lee,Malta,False,2024-04-17,2025-03-28,60295.51,Medium
+ae9bec36-35c7-436c-9b99-62c6e61fecc0,Company,"Webb, Porter and Young",Canada,False,2023-01-11,2026-05-26,24705.78,Low
+ccc56569-f9e8-4369-a999-b735dd56cc94,Individual,Mrs Louise Pratt,US,False,2026-02-12,2026-05-30,49113.06,Low
+b386f7a4-c991-403f-a8c1-3091444d610b,Individual,Mrs Marie Morton,Malta,False,2025-07-01,2025-11-04,13710.75,Medium
+dd463c09-4752-47aa-9408-f9ac6601ddd0,Individual,Dr Clive Hart,Germany,False,2022-08-09,2025-03-30,87370.87,Medium
+2db69edb-42de-4fcc-b86c-2ca2e08596db,Individual,Kyle Reed,Malta,False,2026-03-09,2026-04-26,69296.9,High
+6fa17735-b572-43d0-8b5c-ea6a41357e8c,Individual,Max Holmes,UAE,False,2023-06-01,2024-07-14,52240.01,Low
+d9178793-a9d3-42e6-905c-c6869f871ce7,Individual,Kieran O'Sullivan-King,US,False,2026-03-26,2026-05-03,59242.56,Low
+610faa3f-f0bb-4c67-aa38-d0a16ba25efe,Individual,Glen Hodgson,UK,False,2024-04-05,2024-12-08,63479.19,Low
+acf5e81e-7131-4269-b118-e36477097749,Company,"Jones, Hutchinson and Coles",Cayman Islands,False,2023-08-21,2025-07-08,8014.88,High
+c04a96c4-f3b6-4fe1-9184-332417e8392a,Individual,Dean Wilson,Cayman Islands,False,2024-01-25,2024-06-03,14098.87,High
+12a4def0-c4bb-47a9-9988-68dd9c7c7377,Individual,Mark Lee,France,False,2022-09-18,2024-07-31,80942.2,Low
+c521bf2d-dc45-4539-803f-3538e4855aa1,Company,Lloyd-Roberts,UAE,False,2022-03-24,2022-06-10,42934.28,Medium
+76f2dbfe-cd29-436f-a222-82e174daaebf,Individual,Stephanie Salazar,UK,False,2026-01-28,2026-06-03,98432.36,Low
+3f4b1a70-c074-418e-825a-609f7337c599,Company,"Washington, Allen and Gonzales",US,False,2025-12-22,2026-02-04,25616.98,Low
+620e99d3-3b33-43d8-a69c-d696236c7b87,Individual,Kenneth Collins-Miles,Germany,False,2023-02-01,2024-07-02,28575.97,Low
+f2311f17-9586-4a76-8511-55ffe7a37e81,Individual,Dr Shane Bailey,US,False,2025-08-26,2025-11-25,86273.56,High
+8bcf53a1-bc10-4a52-bf5d-2fdf89c8d2ab,Company,Lloyd-Williams,Malta,False,2025-10-03,2026-01-15,83766.73,Low
+9f4c3b79-fb10-487f-a0ac-3703eb67146a,Individual,Mrs Patricia Graham,France,False,2025-02-09,2026-04-22,49078.47,Low
+53ac2ab9-7467-4cd9-b62f-5e5c53cd6268,Individual,Jamie Walton,UK,False,2021-09-27,2022-12-08,1213.38,Medium
+39669fa7-5997-4043-b3b1-025bfff9f585,Individual,Mr Stephen Wells,Cayman Islands,False,2023-11-03,2026-01-24,69962.56,High
+f2a03459-9060-4f62-9d48-a071ab61a7b1,Individual,Bruce Smith,Malta,False,2022-09-06,2023-04-27,49180.47,Low
+9424aed5-1bac-4c15-8fa0-3f26f6f7f0cc,Individual,Carly Davies-Hayward,UK,False,2025-05-18,2026-06-05,54677.32,High
+4d3485c5-c5c1-4eb4-b27b-3d901a16342c,Individual,Mr Kyle Kent,UK,False,2021-11-13,2022-03-09,50782.19,High
+6efb63b1-1b04-4863-bd7d-dbedd284476c,Company,"Snow, Stevens and Hernandez",US,False,2021-07-21,2025-03-05,85282.91,Low
+bb2488a3-d363-47b6-af81-cf4f7701f7bb,Individual,David Michael,France,False,2024-07-26,2026-04-06,94218.02,High
+d9d80b8d-7e8a-4ee7-8758-e201561e16d1,Individual,Daniel Salinas,Cyprus,True,2025-03-29,2025-08-03,9116.36,High
+680bac63-b856-4035-bdc9-829015eabb27,Individual,Cynthia Alvarez,Malta,False,2024-04-07,2025-04-06,26815.8,High
+4e6384bb-3e49-4f43-b118-f68d6786d506,Individual,Joseph Coleman,France,False,2021-12-14,2023-07-20,13956.95,High
+314d3441-b8a6-471f-9ee3-4dc43b048a8b,Individual,Joshua Gill,UAE,False,2022-11-04,2023-07-17,93637.69,Low
+31b1b099-d527-41e7-99bc-143efb02bebb,Individual,Christopher Smith,Cyprus,False,2022-11-14,2023-11-11,8252.81,Low
+7daa39f0-c0b6-4ce2-9e53-790aa34b6cf6,Individual,Mr Mitchell Kirby,Germany,False,2024-04-03,2025-03-28,88205.55,Low
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b,Individual,Dr Deborah Mellor,Germany,False,2026-04-25,2026-05-04,54778.58,Medium
+6a8a616f-c3b2-40d0-8edd-dfcd1e52d770,Individual,Dr Eric Walker,Malta,True,2021-11-30,2025-11-07,81893.31,Medium
+19675f06-bd76-4e35-b5c9-b0479c10c572,Individual,Kenneth Pritchard,US,False,2023-01-06,2023-07-24,14294.82,Low
+b07aa066-7354-45ea-a894-9b8d00af5b3a,Individual,David Mann,Malta,False,2024-03-31,2024-05-28,28893.87,Low
+398d1ca6-8b68-40b5-9d61-fac36cd5e859,Individual,Rachel Hammond-Thompson,France,False,2026-02-09,2026-05-03,85438.37,High
+670acc5c-b321-4f21-8dd8-eb85b04d3376,Individual,Katherine Miller,UK,False,2023-09-07,2026-03-07,42934.0,Medium
+ac9ed156-f63f-4e41-ba9a-ca5e176132ed,Company,"Perry, Allen and Miller",Germany,False,2024-07-04,2025-06-10,64074.22,Medium
+a2814044-6f96-4882-95d8-2980ff37d19c,Company,Harrison Group,Panama,False,2026-01-25,2026-03-15,56529.78,Low
+49c8a43f-7ed7-4ed7-b194-990b6961929e,Company,"Johnson, Miller and King",Germany,False,2025-10-11,2026-06-21,55013.44,Medium
+764414fd-8ae7-49ed-9e8e-de0ba85c6e4a,Individual,Joseph Dean,Germany,False,2025-10-24,2026-03-28,5141.06,Medium
+e17f29e1-7028-4046-89bc-473fed7bf656,Individual,William Lynch,UK,False,2022-07-04,2025-05-02,21797.58,Low
+d7665cda-fe04-4059-b985-fb6217dc8eff,Individual,Darren Miah,UAE,False,2024-03-29,2025-05-12,88529.34,Medium
+faf14ff0-7b85-479a-95b0-77e06a5d932b,Individual,Juan Reyes,Germany,False,2024-01-13,2026-02-26,24437.0,Low
+81fb18b3-c9a7-491f-af2a-e71357021049,Individual,Diane Evans,Germany,False,2025-05-08,2026-05-03,3453.85,High
+8b1e3b9d-c34b-4fbb-8d4a-75b8551ac8ea,Individual,Frank Lopez,Panama,False,2024-03-07,2025-07-02,86542.34,Low
+7914f8a8-bea4-4f31-9174-00f80b2c782a,Individual,Matthew Hoover,US,False,2025-10-08,2026-02-15,4833.74,Medium
+d85480f0-dfca-40b7-99b1-7e80dea4ae17,Individual,Thomas Smith,Cayman Islands,False,2022-02-13,2023-11-29,82233.1,Low
+65c17795-b155-46bc-9f8d-ed9756abf2f1,Individual,Dr Tom Taylor,France,False,2021-11-11,2026-04-12,28581.7,Low
+a193c4b2-3c19-471d-9184-05ad9e11d2cd,Individual,Nicole Hamilton MD,Canada,False,2025-11-06,2026-02-18,51431.16,High
+4b1a269b-0e5d-4462-8bd0-0ef2530a37df,Individual,Charles Schmidt,Malta,False,2026-01-02,2026-02-01,3732.45,Medium
+7f671eec-3da7-4577-aee1-e86b9ea556aa,Company,Hall LLC,Canada,False,2024-07-14,2025-01-12,4787.46,High
+8beddb12-ad77-482f-89a2-3a89e6b5a92c,Individual,Melissa Harding,UAE,False,2025-12-25,2026-04-22,98439.35,Low
+ffd6f232-32ff-4294-8d57-d880d865d69a,Individual,Ashley James,Cyprus,False,2024-12-09,2025-10-30,5394.27,Medium
+dd750e98-90e0-495f-8212-b554464458b4,Company,"Morris, Lee and Cooke",Malta,False,2021-08-07,2024-07-26,68998.86,High
+c16d83ed-ad81-48bd-8029-13ec9ef2b93e,Individual,Anthony Cooke,France,False,2022-08-01,2023-10-16,7927.41,High
+e8dd5e5a-1712-4b16-a1a4-344fbb7bee03,Individual,Jason Gonzalez,Cyprus,False,2021-08-27,2024-03-22,84953.51,High
+7b5a611a-f1b6-4afe-931e-df1ae9ff1cae,Individual,Gina Wilson,Malta,False,2025-08-22,2025-10-04,41430.9,Medium
+8eac0a33-cdf9-44a7-9882-b5c1f79efd70,Individual,James Baker,Malta,False,2025-10-15,2026-02-08,42624.19,Medium
+78b2b549-3bdb-409e-acc2-16a01bbc91f7,Individual,Leonard Mills,Germany,False,2024-05-30,2025-10-04,30794.04,High
+23c86d30-1dde-4969-a886-13dba6348e78,Individual,Kathleen Turner,Canada,False,2026-01-13,2026-01-29,43558.93,High
+b24cc64f-be3e-4e57-b30a-9e32aba4fc03,Individual,Molly Mcclure,UAE,False,2023-06-07,2025-12-25,44773.82,Low
+379efc6e-5edb-4d3c-b0b6-3bcf08601833,Individual,David Cox,Germany,False,2026-03-08,2026-05-08,29094.85,High
+f2f25eef-1f45-4bfd-b7dc-67e030974b2b,Individual,Daniel Fowler,UAE,False,2021-10-16,2022-01-10,95247.97,Low
+11906f50-3488-4a46-9088-2eafc9776598,Individual,Raymond Bradley,France,False,2022-09-15,2023-12-13,15588.04,Low
+250a4578-fbe9-4499-9bc0-80fd46fb7bf3,Individual,Malcolm Roberts,Cayman Islands,False,2025-06-07,2026-02-17,77080.44,Medium
+96bf10ab-3ce9-45e7-89d6-a63bca3c6f5f,Individual,Derek Martinez,Cyprus,False,2022-02-23,2024-06-06,69939.07,Medium
+73b6a09b-1bea-46ac-97fa-7f0483639007,Individual,Daniel Wood,Germany,False,2023-11-14,2025-01-25,1548.94,Low
+afa415e5-6d20-4496-a6d0-6371d8e88ebb,Individual,Ross Ford,France,False,2021-10-17,2023-04-22,95838.64,High
+8c611654-95da-45c1-a211-50f99fd34579,Individual,Kyle Phillips,Malta,False,2021-10-25,2022-04-12,84985.3,Medium
+3a7e8e14-e359-4ee1-b399-1a476e191042,Company,Wilcox-Ross,Malta,False,2025-10-02,2025-12-25,98801.35,High
