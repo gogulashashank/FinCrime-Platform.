@@ -6,7 +6,11 @@ import plotly.graph_objects as go
 import os
 import yaml
 import json
+import sys
 from pathlib import Path
+
+# Fix for Streamlit Community Cloud: explicitly add the repository root to the Python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 
 # Must be the very first Streamlit command
 st.set_page_config(page_title="FinCrime Platform | Investigator Workstation", layout="wide")
