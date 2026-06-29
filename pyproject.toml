@@ -1,5 +1,5 @@
 [project]
-name = "fincrime_capstone"
+name = "fincrime_platform"
 version = "0.1.0"
 description = "End-to-End Financial Crime Detection Platform"
 authors = [

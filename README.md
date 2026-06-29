@@ -1,4 +1,4 @@
-# 🛡️ FinCrime Capstone: AI-Augmented Investigator Workstation
+# 🛡️ FinCrime Platform: AI-Augmented Investigator Workstation
 
 ![FinCrime Dashboard](https://img.shields.io/badge/Status-Active-success) ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B) ![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange)
 
@@ -47,8 +47,8 @@ This repository includes a highly realistic synthetic data generator, ensuring y
 
 **1. Clone the repository and install dependencies:**
 ```bash
-git clone https://github.com/your-username/FinCrime-Capstone.git
-cd FinCrime-Capstone
+git clone https://github.com/your-username/FinCrime-Platform.git
+cd FinCrime-Platform
 pip install -r requirements.txt
 ```
 
@@ -69,7 +69,7 @@ python scripts/run_ui.sh
 ## 🧠 Architecture & Project Structure
 
 ```text
-FinCrime-Capstone/
+FinCrime-Platform/
 │
 ├── configs/
 │   └── rules.yaml                 # Deterministic typology definitions (JMLSG mapped)

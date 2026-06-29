@@ -9,7 +9,7 @@ import json
 from pathlib import Path
 
 # Must be the very first Streamlit command
-st.set_page_config(page_title="FinCrime Capstone | Investigator Workstation", layout="wide")
+st.set_page_config(page_title="FinCrime Platform | Investigator Workstation", layout="wide")
 
 from src.ui.ui_components import metric_card, badge, sar_textarea, style_network_figure, ICONS
 

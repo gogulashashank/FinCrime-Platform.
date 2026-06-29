@@ -1,4 +1,4 @@
-# Workspace Rules for FinCrime-Capstone
+# Workspace Rules for FinCrime-Platform
 
 - Always optimize for portfolio credibility in AML, fraud, compliance analytics, and RegTech.
 - Prefer business realism over academic novelty.

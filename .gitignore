@@ -11,12 +11,14 @@ venv/
 ENV/
 
 # Data
-data/synthetic/*
+# We must allow synthetic data to be pushed so Streamlit Community Cloud can run instantly
+# data/synthetic/*
 !data/synthetic/.gitkeep
 
 # Models
-src/models/*.pkl
-src/models/*.json
+# We allow models so others can inspect them
+# src/models/*.pkl
+# src/models/*.json
 
 # Logs
 *.log
